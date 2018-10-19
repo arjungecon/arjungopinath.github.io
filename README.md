@@ -1,3 +1,3 @@
-# arjungecon.github.io
+# Personal Website Setup	
 
-Personal Website
+This is me trying to design my own website. Yay.
