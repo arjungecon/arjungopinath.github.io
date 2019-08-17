@@ -1,3 +1,4 @@
-# Personal Website Setup	
+# Personal Website 	
 
-This is me trying to design my own website. Yay.
+This is a work-in-progress personal website. Yay.
+
